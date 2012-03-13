@@ -4,4 +4,4 @@ virtualenv==1.5.2
 wsgiref==0.1.2
 xattr==0.6.1
 zope.interface==3.5.1
-Phai lam sao de xoa het nhung yeu thuong xua
+TOi Yeu Em nhieu lam em ak

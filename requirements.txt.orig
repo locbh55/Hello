@@ -1,0 +1,11 @@
+Add some thing
+python-dateutil==1.5
+virtualenv==1.5.2
+wsgiref==0.1.2
+xattr==0.6.1
+zope.interface==3.5.1
+<<<<<<< HEAD
+Phai lam sao de xoa het nhung yeu thuong xua
+=======
+TOi Yeu Em nhieu lam em ak
+>>>>>>> 097b9d84e200c4a7a24f037ea6af8450a4e6dd6f
